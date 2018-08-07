@@ -39,7 +39,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 <script>
   x=document.getElementsByClassName("project-name");
   for(var i = 0; i < x.length; i++){
-    x[i].innerText="Shin Foundation | 新財団";
+    x[i].innerText="Shin Foundation | 「新」財団";
   }
-  document.title = "Shin Foundation | 新財団";
+  document.title = "Shin Foundation | 「新」財団";
 </script>
