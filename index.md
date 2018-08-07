@@ -1,3 +1,7 @@
+<title>Test</title>
+---
+title: My Blog
+---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/SHIN-Fundation/shin-fundation.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
