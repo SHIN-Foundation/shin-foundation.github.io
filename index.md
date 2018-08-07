@@ -1,4 +1,3 @@
-<title>Test</title>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/SHIN-Foundation/shin-foundation.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -42,4 +41,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
   for(var i = 0; i < x.length; i++){
     x[i].innerText="Shin Foundation | 新財団";
   }
+  document.title = "Shin Foundation | 新財団";
 </script>
