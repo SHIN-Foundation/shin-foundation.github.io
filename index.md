@@ -38,8 +38,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 <script>
   x=document.getElementsByClassName("project-name");
-  for(var i = 0; i < x.length; i++){
-    x[i].innerText="Shin Foundation | 「新」財団";
-  }
+  x[0].innerText="Shin Foundation | 「新」財団";
+  x=document.getElementsByClassName("project-tagline");
+  x[0].innerText="SHIN Blockchain 2018. Dev in PHP6 language, web daemon ー Open Source, easy to use and setup.";
   document.title = "Shin Foundation | 「新」財団";
 </script>
